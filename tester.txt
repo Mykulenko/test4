@@ -163,7 +163,559 @@ color: red;
 }
 p {
     text-align: center;
+    color: pink;h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
     color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2p
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2pa{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html><head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html></html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2p
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2pa{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html><head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html></html>1111h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2p
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2pa{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html><head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>h2 {
+text-align: center;
+font-size: 2em;
+color: red;
+}
+p {
+    text-align: center;
+    color: pink;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+a{
+    color: darkgreen;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html></html>
     border: 2px solid powderblue;
     padding: 30px;
 }
